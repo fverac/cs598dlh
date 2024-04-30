@@ -7,7 +7,7 @@
 
 **Project:** 11
 
-**Github link:** https://github.com/fverac/cs589dlh
+**Github link:** https://github.com/fverac/cs598dlh
 
 **Video link:** https://www.youtube.com/watch?v=ymaahdX9844
 
